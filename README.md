@@ -5,17 +5,17 @@
 
 **Team Members:**
 - Aarsha Philbi
-- [Member 1's Github ](https://github.com/username) - Role/Contribution
+- https://github.com/AarshaPhilbi- Role/Contribution
 - Aleena Wilson
 - [Member 2's Github](https://github.com/username) - Role/Contribution
 
 ## 💡 Project Idea
-[This is a safety app designed for individuals with disabilities or limited mobility that detects distress sounds (like screams) and automatically sends emergency alerts to pre-registered contacts. The adjustable sensitivity allows customization for different environments, providing peace of mind and quick assistance when needed.]
+This is a safety app designed for individuals with disabilities or limited mobility that detects distress sounds (like screams) and automatically sends emergency alerts to pre-registered contacts. The adjustable sensitivity allows customization for different environments, providing peace of mind and quick assistance when needed.
 
 ## ✨ Key Features
-- 🔍 Feature 1: [Detects distress signals(screams)]
-- ⚡ Feature 2: [Can adjust sensitivity of sound according to environments.] 
-- 🛡️ Feature 3: [Sends a text message to a registered phone number]
+- 🔍 Feature 1: Detects distress signals(screams)
+- ⚡ Feature 2: Can adjust sensitivity of sound according to environments.
+- 🛡️ Feature 3: Sends a text message to a registered phone number
 
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
@@ -37,12 +37,17 @@
 
 ### Installation
 ```bash
-// {Enter the commands for installation here}
+// npm install npm
+  npm install express
+  npm install cors
+  npm install twillio
+  
 ```
 
 ### Running the Project
 ```bash
-// {Enter the commands for running here}
+// node server.js
+    npm start
 ```
 
 ## 🤝 How to Contribute
